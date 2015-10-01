@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">RemindMeBeta</string>
     <string name="search_title">Search</string>
+
+    <string name="menu_icon_notification">Напоминания</string>
+    <string name="viewNavigationOpen">Open</string>
+    <string name="viewNavigationClose">Close</string>
+
 </resources>
